@@ -1,0 +1,9 @@
+body {
+    background-image: url(/public/images/black.jpg);
+    background-size: cover;
+}
+
+.shade {
+    background-color: rgba(0,0,0,0.5);
+    height: 100vh;
+}
